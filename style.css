@@ -24,9 +24,19 @@ header {
   padding: 4rem 0;
 }
 
+header h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 1rem;
+}
+
 header .tagline {
-  font-size: 1.3rem;
-  margin: 1rem 0;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #e0e0e0;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 .btn {

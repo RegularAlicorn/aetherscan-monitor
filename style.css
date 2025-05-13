@@ -18,10 +18,10 @@ h1, h2, h3 {
 }
 
 header {
-  background-color: #2a2d34;
+  background: linear-gradient(to right, #1a1f2b, #2a2d34);
   color: white;
   text-align: center;
-  padding: 4rem 0;
+  padding: 6rem 2rem;
 }
 
 header h1 {
